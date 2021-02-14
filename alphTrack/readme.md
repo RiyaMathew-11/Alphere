@@ -7,4 +7,4 @@
 
 ![](alphT.jpeg)
 
-[Link](https://www.figma.com/proto/MDW7QJMR86vZue7KjSwMQ1/alphTrack?node-id=59%3A280&scaling=scale-down) to prototype
+[Link](https://www.figma.com/proto/MDW7QJMR86vZue7KjSwMQ1/alphTrack?node-id=59%3A280&scaling=scale-down) to prototype and [video demo](https://drive.google.com/file/d/1tE3hWuxQ_kQMBDgpGA_ybHyIQ4Zyykcx/view?usp=sharing)
