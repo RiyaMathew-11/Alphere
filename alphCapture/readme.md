@@ -13,6 +13,8 @@ If a match is found, customer count is decremented, and the the image is removed
 
 Want to know how it works ? 
 
+[Link](https://drive.google.com/file/d/1vpzdRjNUVrDXegi6lsSI0n7AwJZsb6RX/view?usp=sharing) to demo
+
 ## Prerequisites
 
 1. Anaconda Environment<br>
@@ -30,4 +32,4 @@ You are now ready to download and run this [file](https://drive.google.com/file/
 
 ![](AlphC.png)
 
-[Link](https://drive.google.com/file/d/1vpzdRjNUVrDXegi6lsSI0n7AwJZsb6RX/view?usp=sharing) to demo
+
