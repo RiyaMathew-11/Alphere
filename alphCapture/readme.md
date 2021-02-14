@@ -27,3 +27,5 @@ Want to know how it works ?
   - Install using `pip install face-recognition` 
 
 You are now ready to download and run this [file](https://drive.google.com/file/d/101JkkZ67_n9jILovuUDgH1BXXCBOgO13/view?usp=sharing) 
+
+![](AlphC.png)
