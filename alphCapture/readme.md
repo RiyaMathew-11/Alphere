@@ -8,7 +8,7 @@ An improvised prototype of a system that enables monitoring of customers enterin
 For each face registered at the entry point, a count variable is set that increments till a particular limit.
 When maximum limit is reached – alert send to staff<br>
 Similarly, at exit point, the customer's face is registered and compared with the existing images in database.
-If a match is found, customer count is decremented, and the the image is removed from the database.
+If a match is found, customer count is decremented, and the image is removed from the database.
   
 
 Want to know how it works ? 
